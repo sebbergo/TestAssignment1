@@ -34,4 +34,17 @@ Put it back down on surface
 ```
 
 ## Give your thoughts on BDD
-- 
+- What was positive about using BDD
+It gave structure to the process of making a method correctly
+
+- What was annoying or difficult?
+It was difficult to try and simulate the right value when comparing doubles, but I found out how to limit the amount it could fluctuate
+
+- What surprised you?
+How satisfying it was to get a green tick when a test passes
+
+- Did BDD help you understand the problem domain more?
+It was definitely a plus when trying to debug. So that when a thing fails, it's easier to understand where to try and fix that bug and isolate the problem.
+
+- Did BDD help you write some tests you wouldn't otherwise have thought of?
+I don't know if it helped me write tests that I wouldn't have thought of, but it definitely helped me structuring the methods I made and letting me see wether or not they worked as intended.
